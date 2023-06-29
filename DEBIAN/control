@@ -1,0 +1,14 @@
+Package: chonos-cert
+Version: 23.06.29
+Priority:
+Architecture: all
+Essential:
+Depends: chonide (>= 1.2.0)
+Pre-depends:
+Suggests:
+Installed-Size:
+Maintainer: chon@grupo.cefet-rj.br
+Conflicts: 
+Replaces:
+Provides:
+Description: ChonIDE HTTPS certificates
