@@ -3,7 +3,7 @@ Version: 23.06.29
 Priority:
 Architecture: all
 Essential:
-Depends: chonide (>= 1.2.0)
+Depends: 
 Pre-depends:
 Suggests:
 Installed-Size:
